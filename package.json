@@ -1,0 +1,9 @@
+{
+  "name": "momo.codes",
+  "version": "0.1.0",
+  "description": "official website",
+  "main": "index.js",
+  "repository": "https://github.com/devjoseluis/momo.codes.git",
+  "author": "José Luis <devjoseluis@gmail.com>",
+  "license": "MIT"
+}
